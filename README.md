@@ -12,9 +12,9 @@ I enjoy sketching out ideas and then writing the code to bring them to life.
 
 🛠️ Tools & Technologies
 Category	Stack
-Languages	Python, JavaScript, HTML, CSS
-Frameworks	React Native, Django
-Design & Tools	Figma, VS Code, Git
+Languages:	Python, JavaScript, HTML, CSS
+Frameworks:	React Native, Django
+Design & Tools:	Figma, VS Code, Git...
 
 📌 Featured Projects
 pivo-tracker
