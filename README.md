@@ -1,22 +1,27 @@
-Hi there, 
+Hi, I'm Divine 👋
 
-I'm Divine, a student of Software Engineering
-I love blending clean code with nice deign to create engaging, highly-polished user experience.
+Software Engineering student who loves blending clean code with thoughtful design to create engaging, polished user experiences.
 
-I enjoy sketching out ideas and writing the code to bring them to life
+I enjoy sketching out ideas and then writing the code to bring them to life.
 
-I’m currently working on an incredible system that will help add to the solutions of insecurity
+🔭 What I'm up to
+🛡️ Building a system that contributes to solutions for insecurity
+📦 Maintaining a handful of personal projects, my favourite being my Inventory Management System
+📚 Currently learning and sharpening my skills in Java
+🤝 Looking to collaborate on impactful projects while continuing to build my own
 
-I have a bunch of personal project but my favourite is my Inventory Management System
+🛠️ Tools & Technologies
+Category	Stack
+Languages	Python, JavaScript, HTML, CSS
+Frameworks	React Native, Django
+Design & Tools	Figma, VS Code, Git
 
-I’m currently learning and improving my skills on Java
+📌 Featured Projects
+pivo-tracker
+voto-polling-system
+FX-FLOW-CONVERTER
+📫 Let's connect
+💼 www.linkedin.com/in/divine-chime
+✉️ divinechime90@gmail.com
 
-I’m looking to collaborate on revolutionary projects while working on my own
-
-If you want to connect with me, I'm available on my LinkedIn or you could send me an email
-
-Tools And Technologies I Use
-Languages: Python, JavaScript, HTML, CSS
-Frankwork: React Native, Django
-Design and Tools: Figma, VS Code, Git and more
-
+Always learning. 🚀
